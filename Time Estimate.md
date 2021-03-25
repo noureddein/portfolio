@@ -26,9 +26,9 @@ Number and name of feature: #3: Modify the contents
 
 Estimate of time needed to complete: **60min**
 
-Start time: **6:03**
+Start time: \*\*\*\*
 
-Finish time: **6:45**
+Finish time: \*\*\*\*
 
 ## Actual time needed to complete: \*\*\*\*
 
