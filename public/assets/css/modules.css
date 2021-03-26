@@ -537,7 +537,6 @@
 }
 
 /* Screen 961 to 1320 */
-/* Narrow */
 @media screen and (min-width: 961px) and (max-width: 1320px) {
   .container {
     width: 100%;
@@ -810,14 +809,26 @@
   /* Header */
 
   #header {
-    width: 20%;
+    /* width: 20%; */
+    width: 100%;
+    position: fixed;
+    /* height: auto; */
+    height: 9%;
+    display: flex;
+    flex-direction: row;
   }
 
   #logo .image {
     position: relative;
-    margin: 0 0 0.5em 0;
+    margin: 0;
   }
-
+  #logo p,
+  #logo h1 {
+    display: none;
+  }
+  #logo {
+    margin: 0.5em 0.5em 0.5em 0.5em;
+  }
   #nav ul li a {
     font-size: 0.8em;
     padding-top: 0.5em;
@@ -843,7 +854,22 @@
   /* Main */
 
   #main {
-    margin-left: 20%;
+    margin: auto;
+    /* margin-left: 20%; */
+  }
+  .top {
+    display: flex;
+    flex-direction: row;
+  }
+  #nav ul {
+    display: flex;
+  }
+  #nav ul li {
+    margin: auto;
+  }
+  .bottom {
+    margin: 1% 0 0 0;
+    padding: 0;
   }
 }
 
