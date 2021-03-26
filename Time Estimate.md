@@ -24,12 +24,22 @@ Finish time: **5:30**
 
 Number and name of feature: #3: Modify the contents
 
-Estimate of time needed to complete: **60min**
+Estimate of time needed to complete: **45min**
 
-Start time: \*\*\*\*
+Start time: **09:45**
 
-Finish time: \*\*\*\*
+Finish time: **10:30**
 
-## Actual time needed to complete: \*\*\*\*
+## Actual time needed to complete: **10:10**
 
 ---
+
+Number and name of feature: #3: Modify the contents
+
+Estimate of time needed to complete: **45min**
+
+Start time: **09:45**
+
+Finish time: **10:30**
+
+## Actual time needed to complete: **10:10**
